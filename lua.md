@@ -61,7 +61,7 @@ title: Lua
 
     if condition then
       print("yes")
-    elsif condition then
+    elseif condition then
       print("maybe")
     else
       print("no")
@@ -296,5 +296,5 @@ title: Lua
 
 ## Reference
 
-  http://www.lua.org/pil/13.html
+  https://www.lua.org/pil/13.html
   http://lua-users.org/wiki/ObjectOrientedProgramming
